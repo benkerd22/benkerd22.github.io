@@ -6,3 +6,8 @@
   * Takeaways：要成为提出需求的人，而不是承接别人的需求
 * Huggingface 上的 [DeepRL 入门课程](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
 
+## 2025-02-19
+* [Bolt.new](https://blot.new) - 一个端到端构建网页的 AI 服务
+
+
+
