@@ -1,5 +1,8 @@
 # Benker's Tech Blog
 
+## 2025-02-25
+* 静态部署推荐：[Netify](https://www.netlify.com/)
+
 ## 2025-02-21
 * 进一步关注 [Dan Koe 的博客](https://thedankoe.com/)
 * [帕金森定律](https://en.wikipedia.org/wiki/Parkinson%27s_law)
