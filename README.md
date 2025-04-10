@@ -1,5 +1,8 @@
 # Benker's Tech Blog
 
+## 2025-04-10
+* Antropic LLM 可解释性，揭示 LLM 中的电路 https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-poems
+
 ## 2025-02-25
 * 静态部署推荐：[Netify](https://www.netlify.com/)
 
