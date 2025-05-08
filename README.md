@@ -2,6 +2,7 @@
 
 ## 2025-05-08
 * 一个 OpenAI 的 WebUI 套皮，非常好的有 90k+ stars https://github.com/open-webui/open-webui
+* dify：用于搞 Prompt Enginering 的工作流系统 https://dify.ai/
 
 ## 2025-04-17
 * MLSys 入门文档，有对 RLHF 非常好的介绍 https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial/tree/main
