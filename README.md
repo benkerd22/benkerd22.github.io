@@ -1,5 +1,8 @@
 # Benker's Tech Blog
 
+## 2025-07-16
+* [各 LLM 厂商泄漏出来的 System Prompt，学习 prompting 的绝佳资料](https://github.com/elder-plinius/CL4R1T4S/tree/main)
+
 ## 2025-05-24
 * [控制性社会：美元稳定币法案的深远影响一瞥：可能预示了人类未来](archive/The%20New%20Control%20Society.md)
   > 这篇文章深入分析了当代社会权力运作的新模式，指出了“协议”在其中的核心作用，并探讨了由此产生的政治、社会和文化影响，以及我们可能采取的应对策略。它提醒我们，在看似自由和开放的网络时代，我们需要警惕更隐蔽、更强大的控制形式。
