@@ -1,7 +1,7 @@
 # Benker's Tech Blog
 
 ## 2025-07-23
-* 王沪宁著作《政治的人生》《美国反对美国》《政治的逻辑》有时间需要深度阅读一下。
+* 王沪宁著作[《政治的人生》](https://www.scribd.com/document/537954544/%E6%94%BF%E6%B2%BB%E7%9A%84%E4%BA%BA%E7%94%9F-%E7%8E%8B%E6%B2%AA%E5%AE%81-1995)[《美国反对美国》](https://github.com/zealotCE/America-Against-America/tree/master)《政治的逻辑》有时间需要深度阅读一下。
 * 《人性的深渊 - 吴谢宇案》也可以阅读一下。
 
 ## 2025-07-16
