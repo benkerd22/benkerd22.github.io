@@ -1,5 +1,9 @@
 # Benker's Tech Blog
 
+## 2025-07-23
+* 王沪宁著作《政治的人生》《美国反对美国》《政治的逻辑》有时间需要深度阅读一下。
+* 《人性的深渊 - 吴谢宇案》也可以阅读一下。
+
 ## 2025-07-16
 * [各 LLM 厂商泄漏出来的 System Prompt，学习 prompting 的绝佳资料](https://github.com/elder-plinius/CL4R1T4S/tree/main)
 
