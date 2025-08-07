@@ -1,5 +1,13 @@
 # Benker's Tech Blog
 
+## 2025-08-07
+* 文件分享工具总结：
+BitTorrent(2001), aMule(2003),
+Resilio Sync(2013), IPFS(2013),
+n0-computer/sendme(2023).
+推荐使用 Resilio Sync、IPFS 以及sendme这三个工具。
+其中 sendme 非常适合临时性的文件分享，Resilio Sync 非常适合文件同步，IPFS则是文件存档。
+
 ## 2025-07-24
 * 强化学习 RLHF 开山之作：https://arxiv.org/pdf/2203.02155
 
