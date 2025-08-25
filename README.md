@@ -1,5 +1,8 @@
 # Benker's Tech Blog
 
+## 2025-08-25
+* [LLM Reasoning 综述](https://dennyzhou.github.io/LLM-Reasoning-Stanford-CS-25.pdf)
+
 ## 2025-08-07
 * 文件分享工具总结：
 BitTorrent(2001), aMule(2003),
