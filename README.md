@@ -1,5 +1,8 @@
 # Benker's Tech Blog
 
+## 2025-09-16
+* [软考软件设计师刷题 Github](https://github.com/xiaomabenten/software_designer)
+
 ## 2025-08-27
 * [Your Efficient RL Framework Secretly Brings You Off-Policy RL Training](https://fengyao.notion.site/off-policy-rl#245721e3f6c480eaa892fe53b080c05d)
 
