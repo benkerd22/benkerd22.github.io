@@ -2,6 +2,8 @@
 
 ## 2025-09-18
 * [Welcome to the Era of Experience](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf)
+* [DeepSeek-R1 83页 Nature 论文](https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-025-09422-z/MediaObjects/41586_2025_9422_MOESM1_ESM.pdf)
+  * [评审意见](https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-025-09422-z/MediaObjects/41586_2025_9422_MOESM2_ESM.pdf)
 
 ## 2025-09-16
 * [软考软件设计师刷题 Github](https://github.com/xiaomabenten/software_designer)
