@@ -1,5 +1,8 @@
 # Benker's Tech Blog
 
+## 2025-09-18
+* [Welcome to the Era of Experience](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf)
+
 ## 2025-09-16
 * [软考软件设计师刷题 Github](https://github.com/xiaomabenten/software_designer)
 
