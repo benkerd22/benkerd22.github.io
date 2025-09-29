@@ -1,5 +1,8 @@
 # Benker's Tech Blog
 
+## 2025-09-29
+* [Chrome Devtools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+
 ## 2025-09-22
 * [Meta-Thinking in LLMs via Multi-Agent Reinforcement Learning: A Survey](https://arxiv.org/pdf/2504.14520)
 
