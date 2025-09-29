@@ -45,7 +45,7 @@ n0-computer/sendme(2023).
 
 ## 2025-05-08
 * 一个 OpenAI 的 WebUI 套皮，非常好的有 90k+ stars https://github.com/open-webui/open-webui
-* dify：用于搞 Prompt Enginering 的工作流系统 https://dify.ai/，类似的竞品：coze[（已开源）](https://github.com/coze-dev/coze-studio/tree/main)，[n8n](https://github.com/n8n-io/n8n)
+* dify：用于搞 Prompt Enginering 的工作流系统 https://dify.ai/  类似的竞品：coze[（已开源）](https://github.com/coze-dev/coze-studio/tree/main)，[n8n](https://github.com/n8n-io/n8n)
 
 ## 2025-04-17
 * MLSys 入门文档，有对 RLHF 非常好的介绍 https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial/tree/main
