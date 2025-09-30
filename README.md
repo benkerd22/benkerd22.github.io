@@ -1,5 +1,8 @@
 # Benker's Tech Blog
 
+## 2025-09-30
+* How people are using ChatGPT, [blog](https://openai.com/index/how-people-are-using-chatgpt/) [PDF](https://www.nber.org/system/files/working_papers/w34255/w34255.pdf)
+
 ## 2025-09-29
 * [Chrome Devtools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
