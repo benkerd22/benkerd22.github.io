@@ -2,6 +2,7 @@
 
 ## 2025-09-30
 * How people are using ChatGPT, [blog](https://openai.com/index/how-people-are-using-chatgpt/) [PDF](https://www.nber.org/system/files/working_papers/w34255/w34255.pdf)
+* 个人图书馆管理 - [zotero](https://www.zotero.org/)
 
 ## 2025-09-29
 * [Chrome Devtools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp)
@@ -44,7 +45,6 @@ n0-computer/sendme(2023).
 ## 2025-05-24
 * [控制性社会：美元稳定币法案的深远影响一瞥：可能预示了人类未来](archive/The%20New%20Control%20Society.md)
   > 这篇文章深入分析了当代社会权力运作的新模式，指出了“协议”在其中的核心作用，并探讨了由此产生的政治、社会和文化影响，以及我们可能采取的应对策略。它提醒我们，在看似自由和开放的网络时代，我们需要警惕更隐蔽、更强大的控制形式。
-
 
 ## 2025-05-08
 * 一个 OpenAI 的 WebUI 套皮，非常好的有 90k+ stars https://github.com/open-webui/open-webui
