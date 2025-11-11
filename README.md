@@ -1,5 +1,9 @@
 # Benker's Tech Blog
 
+## 2025-10-01
+* [算法时代的认知主权：信息茧房、集体智能与人类能动性的重新定义](算法时代的认知主权：信息茧房、集体智能与人类能动性的重新定义.md)
+  > 本文深入探讨了算法时代人类认知主权的复杂问题，从信息茧房的拓扑学、大型语言模型对认知基础设施的重构、协议社会的认知政治学，到重新获得认知主权的策略。文章融合了控制论、现象学、政治哲学和认知科学等多个理论框架，揭示了推荐算法、LLM和协议如何重塑我们的认知过程，并提出了在技术环境中保持人类能动性的可能路径。
+
 ## 2025-09-30
 * How people are using ChatGPT, [blog](https://openai.com/index/how-people-are-using-chatgpt/) [PDF](https://www.nber.org/system/files/working_papers/w34255/w34255.pdf)
 * 个人图书馆管理 - [zotero](https://www.zotero.org/)
