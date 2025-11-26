@@ -1,5 +1,8 @@
 # Benker's Tech Blog
 
+## 2025-11-26
+* [How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system)
+
 ## 2025-09-30
 * How people are using ChatGPT, [blog](https://openai.com/index/how-people-are-using-chatgpt/) [PDF](https://www.nber.org/system/files/working_papers/w34255/w34255.pdf)
 * 个人图书馆管理 - [zotero](https://www.zotero.org/)
