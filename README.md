@@ -1,5 +1,8 @@
 # Benker's Tech Blog
 
+## 2026-01-04
+* [Ilya Sutskever – We're moving from the age of scaling to the age of research](https://www.youtube.com/watch?v=aR20FWCCjAs)
+
 ## 2025-11-26
 * [How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system)
 
