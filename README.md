@@ -1,7 +1,7 @@
 # Benker's Tech Blog
 
 ## 2025-01-09
-* (Recursive Language Models: the paradigm of 2026 递归语言模型：2026 年的范式)[https://www.primeintellect.ai/blog/rlm]
+* [Recursive Language Models: the paradigm of 2026 递归语言模型：2026 年的范式](https://www.primeintellect.ai/blog/rlm)
 
 ## 2026-01-04
 * [Ilya Sutskever – We're moving from the age of scaling to the age of research](https://www.youtube.com/watch?v=aR20FWCCjAs)
