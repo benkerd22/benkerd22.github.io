@@ -1,5 +1,8 @@
 # Benker's Tech Blog
 
+## 2025-01-21
+* [Make PostTrain Solid Again](https://zhuanlan.zhihu.com/p/1995265459285694156)
+
 ## 2025-01-09
 * [Recursive Language Models: the paradigm of 2026 -- 递归语言模型：2026 年的范式](https://www.primeintellect.ai/blog/rlm)
 
