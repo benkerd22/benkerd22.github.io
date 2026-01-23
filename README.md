@@ -1,5 +1,9 @@
 # Benker's Tech Blog
 
+## 2025-01-23
+* [On Policy Distillation, ThinkingMachinesLab](https://thinkingmachines.ai/blog/on-policy-distillation/)
+* [Defeating Nondeterminism in LLM Inference, ThinkingMachinesLab](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/)
+
 ## 2025-01-21
 * [Make PostTrain Solid Again](https://zhuanlan.zhihu.com/p/1995265459285694156)
 
