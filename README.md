@@ -2,6 +2,7 @@
 
 ## 2026-01-30
 * [The Adolescence of Technology - Antropic CEO 长文](https://www.darioamodei.com/essay/the-adolescence-of-technology)
+* [Learning To Discover at Test-time](https://arxiv.org/pdf/2601.16175)
 
 ## 2026-01-23
 * [On Policy Distillation, ThinkingMachinesLab](https://thinkingmachines.ai/blog/on-policy-distillation/)
