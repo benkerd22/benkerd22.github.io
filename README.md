@@ -1,5 +1,8 @@
 # Benker's Tech Blog
 
+## 2026-03-20
+* [YC 总裁的 claude code 使用方法](https://github.com/garrytan/gstack)
+
 ## 2026-01-30
 * [The Adolescence of Technology - Antropic CEO 长文](https://www.darioamodei.com/essay/the-adolescence-of-technology)
 * [Learning To Discover at Test-time](https://arxiv.org/pdf/2601.16175)
