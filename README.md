@@ -1,5 +1,8 @@
 # Benker's Tech Blog
 
+## 2026-04-02
+* [https://mp.weixin.qq.com/s?__biz=Mzk0MDU2OTk1Ng==&mid=2247485454&idx=1&sn=7f1abb32fb55c76df03b02a7ccf6f1ff&scene=21&poc_token=HGD9yWmjVfFWCjRxeYnTDBg7S5RkojKiTLx1Fid9]
+
 ## 2026-03-20
 * [YC 总裁的 claude code 使用方法](https://github.com/garrytan/gstack)
 
